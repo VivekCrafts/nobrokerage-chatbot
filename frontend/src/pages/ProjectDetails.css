@@ -1,0 +1,27 @@
+.project-details {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 24px;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  line-height: 1.6;
+}
+
+.project-details h2 {
+  margin-bottom: 12px;
+  color: #2a2a2a;
+}
+
+.back-btn {
+  display: inline-block;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.loading, .error {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 1.2rem;
+}
