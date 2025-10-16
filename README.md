@@ -1,3 +1,4 @@
+Here is my AI Engineer Intern Task for NoBrokerage.com
 **Property Chatbot**
 
 A small full-stack property chatbot:
@@ -12,3 +13,7 @@ A small full-stack property chatbot:
 - Backend (Render): **PLACEHOLDER** — https://nobrokerage-chatbot.onrender.com/
 
 ---
+**Contact details:**
+Vivek Vanave
+phone no: 9322393218
+gmail: vivekvanave45@gmail.com
