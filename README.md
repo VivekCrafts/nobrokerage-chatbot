@@ -1,4 +1,4 @@
-Property Chatbot
+**Property Chatbot**
 
 A small full-stack property chatbot:
 - **Frontend:** React (Vite / Create React App) — chat interface + property cards + project details
