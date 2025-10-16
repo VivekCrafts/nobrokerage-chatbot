@@ -13,7 +13,7 @@ A small full-stack property chatbot:
 - Backend (Render): **PLACEHOLDER** — https://nobrokerage-chatbot.onrender.com/
 
 ---
-**Contact details:**
+**Contact details:**\
 Vivek Vanave\
-phone no: 9322393218
+phone no: 9322393218\
 gmail: vivekvanave45@gmail.com
