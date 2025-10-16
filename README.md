@@ -14,6 +14,6 @@ A small full-stack property chatbot:
 
 ---
 **Contact details:**
-Vivek Vanave
-phone no: 9322393218
-gmail: vivekvanave45@gmail.com
+Vivek Vanave\n
+phone no: 9322393218\n
+gmail: vivekvanave45@gmail.com\n
